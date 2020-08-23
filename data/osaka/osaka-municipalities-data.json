@@ -1,0 +1,236 @@
+{
+  "release_date": "2020-08-15T20:00:00",
+  "data": {
+    "osaka_data": [
+      {
+        "city_name": "大阪市",
+        "cases": 119,
+        "total": 3288
+      },
+      {
+        "city_name": "堺市",
+        "cases": 15,
+        "total": 375
+      },
+      {
+        "city_name": "岸和田市",
+        "cases": 1,
+        "total": 91
+      },
+      {
+        "city_name": "豊中市",
+        "cases": 4,
+        "total": 202
+      },
+      {
+        "city_name": "池田市",
+        "cases": 0,
+        "total": 91
+      },
+      {
+        "city_name": "吹田市",
+        "cases": 1,
+        "total": 247
+      },
+      {
+        "city_name": "泉大津市",
+        "cases": 6,
+        "total": 45
+      },
+      {
+        "city_name": "高槻市",
+        "cases": 1,
+        "total": 98
+      },
+      {
+        "city_name": "貝塚市",
+        "cases": 0,
+        "total": 24
+      },
+      {
+        "city_name": "守口市",
+        "cases": 1,
+        "total": 67
+      },
+      {
+        "city_name": "枚方市",
+        "cases": 1,
+        "total": 159
+      },
+      {
+        "city_name": "茨木市",
+        "cases": 6,
+        "total": 113
+      },
+      {
+        "city_name": "八尾市",
+        "cases": 2,
+        "total": 194
+      },
+      {
+        "city_name": "泉佐野市",
+        "cases": 0,
+        "total": 21
+      },
+      {
+        "city_name": "富田林市",
+        "cases": 1,
+        "total": 20
+      },
+      {
+        "city_name": "寝屋川市",
+        "cases": 3,
+        "total": 82
+      },
+      {
+        "city_name": "河内長野市",
+        "cases": 0,
+        "total": 38
+      },
+      {
+        "city_name": "松原市",
+        "cases": 5,
+        "total": 143
+      },
+      {
+        "city_name": "大東市",
+        "cases": 2,
+        "total": 153
+      },
+      {
+        "city_name": "和泉市",
+        "cases": 5,
+        "total": 91
+      },
+      {
+        "city_name": "箕面市",
+        "cases": 1,
+        "total": 62
+      },
+      {
+        "city_name": "柏原市",
+        "cases": 0,
+        "total": 34
+      },
+      {
+        "city_name": "羽曳野市",
+        "cases": 0,
+        "total": 44
+      },
+      {
+        "city_name": "門真市",
+        "cases": 0,
+        "total": 77
+      },
+      {
+        "city_name": "摂津市",
+        "cases": 1,
+        "total": 38
+      },
+      {
+        "city_name": "高石市",
+        "cases": 0,
+        "total": 32
+      },
+      {
+        "city_name": "藤井寺市",
+        "cases": 0,
+        "total": 38
+      },
+      {
+        "city_name": "東大阪市",
+        "cases": 12,
+        "total": 399
+      },
+      {
+        "city_name": "泉南市",
+        "cases": 0,
+        "total": 13
+      },
+      {
+        "city_name": "四條畷市",
+        "cases": 2,
+        "total": 27
+      },
+      {
+        "city_name": "交野市",
+        "cases": 0,
+        "total": 22
+      },
+      {
+        "city_name": "大阪狭山市",
+        "cases": 0,
+        "total": 18
+      },
+      {
+        "city_name": "阪南市",
+        "cases": 0,
+        "total": 10
+      },
+      {
+        "city_name": "島本町",
+        "cases": 0,
+        "total": 5
+      },
+      {
+        "city_name": "豊能町",
+        "cases": 0,
+        "total": 4
+      },
+      {
+        "city_name": "能勢町",
+        "cases": 0,
+        "total": 5
+      },
+      {
+        "city_name": "忠岡町",
+        "cases": 0,
+        "total": 1
+      },
+      {
+        "city_name": "熊取町",
+        "cases": 1,
+        "total": 20
+      },
+      {
+        "city_name": "田尻町",
+        "cases": 0,
+        "total": 3
+      },
+      {
+        "city_name": "岬町",
+        "cases": 0,
+        "total": 3
+      },
+      {
+        "city_name": "太子町",
+        "cases": 0,
+        "total": 4
+      },
+      {
+        "city_name": "河南町",
+        "cases": 0,
+        "total": 7
+      },
+      {
+        "city_name": "千早赤阪村",
+        "cases": 0,
+        "total": 1
+      }
+    ],
+    "outside": {
+      "label": "大阪府外",
+      "cases": 2,
+      "total": 101
+    },
+    "confirming": {
+      "label": "調査中",
+      "cases": 0,
+      "total": 37
+    },
+    "total": {
+      "today": 192,
+      "total": 6547
+    }
+  }
+}
