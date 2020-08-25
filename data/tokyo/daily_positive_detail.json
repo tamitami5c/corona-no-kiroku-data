@@ -1,5 +1,5 @@
 {
-    "date": "2020\/8\/24 19:30",
+    "date": "2020\/8\/25 19:30",
     "data": [
         {
             "diagnosed_date": "2020-01-20",
@@ -2391,6 +2391,17 @@
         {
             "diagnosed_date": "2020-08-24",
             "count": 95,
+            "missing_count": null,
+            "reported_count": null,
+            "weekly_gain_ratio": null,
+            "untracked_percent": null,
+            "weekly_average_count": null,
+            "weekly_average_untracked_count": null,
+            "weekly_average_untracked_increse_percent": null
+        },
+        {
+            "diagnosed_date": "2020-08-25",
+            "count": 182,
             "missing_count": null,
             "reported_count": null,
             "weekly_gain_ratio": null,
