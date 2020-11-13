@@ -2,8 +2,10 @@
   "hokkaido":[
   ],
   "tokyo":[
-    "date":"2020-11-13",
-    "count":374
+    {
+      "date":"2020-11-13",
+      "count":374
+    }
   ],
   "osaka":[
     {
