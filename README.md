@@ -13,6 +13,7 @@
 | - | - |
 | 神奈川県| ![: update data](https://github.com/tamitami5c/corona-kanagawa-data/workflows/update%20data/badge.svg) |
 | 奈良県 | ![update data](https://github.com/tamitami5c/corona-nara-data/workflows/update%20data/badge.svg)|
+|　愛媛県 |  ![update data](https://github.com/tamitami5c/corona-ehime-data/workflows/update%20data/badge.svg)|
 
 
 ### その他
