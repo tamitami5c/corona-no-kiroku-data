@@ -15,7 +15,7 @@
 | 奈良県 | ![update data](https://github.com/tamitami5c/corona-nara-data/workflows/update%20data/badge.svg)|
 | 愛媛県 |  ![update data](https://github.com/tamitami5c/corona-ehime-data/workflows/update%20data/badge.svg)|
 | 高知県| ![update data](https://github.com/tamitami5c/corona-kochi-data/workflows/update%20data/badge.svg)|
-
+| 福岡県|![update data](https://github.com/tamitami5c/corona-fukuoka-data/workflows/update%20data/badge.svg) |
 
 ### その他
 | タイトル　|　状況 |
