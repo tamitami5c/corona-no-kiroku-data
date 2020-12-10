@@ -6,6 +6,16 @@
 
 ## データ更新のバッジ
 
-大阪府の病床数　データ更新: ![update data](https://github.com/tamitami5c/osaka-beds-data/workflows/update%20data/badge.svg) <br>
-神奈川県の陽性者数　データ更新:![: update data](https://github.com/tamitami5c/corona-kanagawa-data/workflows/update%20data/badge.svg) <br>
-奈良県の陽性者数　データ更新:![update data](https://github.com/tamitami5c/corona-nara-data/workflows/update%20data/badge.svg)<br>
+
+### 陽性者数のデータ更新状況
+
+| 都道府県　|　状況 |
+| - | - |
+| 神奈川県| ![: update data](https://github.com/tamitami5c/corona-kanagawa-data/workflows/update%20data/badge.svg) |
+| 奈良県 | ![update data](https://github.com/tamitami5c/corona-nara-data/workflows/update%20data/badge.svg)|
+
+
+### その他
+| タイトル　|　状況 |
+| - | - |
+| 大阪府の病床数| ![update data](https://github.com/tamitami5c/osaka-beds-data/workflows/update%20data/badge.svg) |
