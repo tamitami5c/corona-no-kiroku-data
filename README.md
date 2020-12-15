@@ -19,6 +19,7 @@
 | 千葉県 | ![update data](https://github.com/tamitami5c/corona-chiba-data/workflows/update%20data/badge.svg) | <https://github.com/tamitami5c/corona-chiba-data> |
 
 ### その他
-| タイトル　|　状況 |
-| - | - |
-| 大阪府の病床数| ![update data](https://github.com/tamitami5c/osaka-beds-data/workflows/update%20data/badge.svg) |
+| タイトル　|　状況 | リンク|
+| - | - | - |
+| 大阪府の病床数| ![update data](https://github.com/tamitami5c/osaka-beds-data/workflows/update%20data/badge.svg) | <https://github.com/tamitami5c/osaka-beds-data> |
+| 大阪府の市町村ごとの陽性者数データ |![update data](https://github.com/tamitami5c/corona-osaka-municipalities-data/workflows/update%20data/badge.svg) | <https://github.com/tamitami5c/corona-osaka-municipalities-data>|
